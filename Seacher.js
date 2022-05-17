@@ -1,5 +1,5 @@
 /*                                                         andrefalt esteve aqui
-obs: meus códigos normalmente não são assim, não tem comentários nem é "organizado", só fiz desse geito aqui porque sei que tem alguém
+obs: meus códigos normalmente não são assim, não tem comentários nem é "organizado", só fiz desse jeito aqui porque sei que tem alguém
 que vai querer saber como que o programa funciona e como raciocinei para que ele funcionasse.
 
 se você não quer saber como ele funciona beleza, é só copiar e colar no console após abrir a lista de seguidores e procurar por alguém.
