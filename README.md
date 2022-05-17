@@ -1,5 +1,5 @@
 # instagram-followers-finder
-Use this script to quickly search for someone in your friend's followers/following list!
+Use this script to quickly search for someone in your friend's followers/following list!  
 Use esse script para encontrar alguém na lista de seguidores de um amigo seu de forma rápida!
 
 # How to use / Como usar
