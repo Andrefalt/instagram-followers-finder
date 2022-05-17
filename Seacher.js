@@ -1,3 +1,4 @@
+console.log("feito pelo seu amigo da vizinhança, andrefalt\nhttps://www.instagram.com/_kinggrimlock/ \nhttps://www.instagram.com/andrefalt/");
 let NOME_PARA_PROCURAR = window.prompt("Nome a ser procurado:");
 let externalHeight = 0;
 let notified = [];
