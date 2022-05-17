@@ -4,4 +4,4 @@ Use esse script para encontrar alguém na lista de seguidores de um amigo seu de
 
 # How to use / Como usar
 Go on someone's profile, open the following or followers menu, open your browser's console(Ctrl+Shift+i), paste this script on it and press enter. 
-Vá no perfil de alguém, abra a lista de seguidores, abra o console de seu navegador(Ctrl+Shift+i), cole o script ali e aperte enter.
+  Vá no perfil de alguém, abra a lista de seguidores, abra o console de seu navegador(Ctrl+Shift+i), cole o script ali e aperte enter.
