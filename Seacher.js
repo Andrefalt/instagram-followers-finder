@@ -20,7 +20,7 @@ function searchFollower(name){
     let followers = menu.children[0].children[0].children;
     //for loop rodando a children do menu pra ver se está ali
     for(i=0;i<followers.length;i++){
-        //expressão regular para capturar múltiplos perfil com o substantivo, capturar eles com maiúscula ou minúscula e fazer isso em várias linhas
+        //expressão regular para capturar múltiplos perfis com o substantivo, capturar eles com maiúscula ou minúscula e fazer isso em várias linhas
         if(followers[i].innerText.match(new RegExp(name,"gim"))){
             //verifica se já foi alertado o perfil encontrado
             if(notified.toString().match(followers[i].innerText.split("\n")[0])){continue;}
