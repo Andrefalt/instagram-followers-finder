@@ -14,7 +14,7 @@ let notified = [];
 //a função que vai procurar pelo usuário que tenha o substantivo alocado à variável NOME_PARA_PROCURAR.
 function searchFollower(name){
     //menu que tem como descendentes os seguidores.
-    let menu = document.querySelector("div[class='isgrP']");
+    let menu = document.querySelector("div[class='_aano']");
     
     //comentário anterior em prova.
     let followers = menu.children[0].children[0].children;
